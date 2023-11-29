@@ -1,6 +1,6 @@
 # DiceGame
 Refresh to roll a dice and decide the winner!
-A random number is generated from 1-6 for each player on the dice and according to the number, winner is decided. 
+A random number is generated from 1-6 for each player on the dice and according to the number, the winner is decided. 
 This website is developed using HTML, CSS, and JavaSript.
 
 ## Title: Dice Roll Winner Decider
@@ -16,3 +16,6 @@ Key Features:
 5. **Customization Options:** Future iterations could include additional features like multiple players, customizable dice, or themed interfaces for added engagement.
 
 This project aims to deliver a lightweight, entertaining experience accessible to anyone with an internet connection. Whether it's for making quick decisions or adding some fun to a gathering, the Dice Roll Winner Decider provides a hassle-free way to determine winners in a playful manner.
+
+<img width="1236" alt="dice_game_preview" src="https://github.com/vingutha/DiceGame/assets/89012965/0b879930-7043-465e-9a4f-6326cf69d08b">
+
